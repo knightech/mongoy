@@ -13,3 +13,5 @@ Page `http://localhost:8080/api/hello` is secured. To access this page, you need
 ```json
   x-auth-token: <your token here>
 ```
+
+Nicely done
